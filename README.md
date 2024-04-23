@@ -1,0 +1,1 @@
+This project is just for get used to rust. It will be updated as soon as developer learns more rust. Anyone can use it :D
